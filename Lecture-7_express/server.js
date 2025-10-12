@@ -1,1 +1,1 @@
-console.log("express installed sucessfully")
+console.log("express installed sucessfully");
