@@ -1,7 +1,7 @@
 import http from "http"
 
 const server = http.createServer((req, res) => {
-    // console.log(req.url)
+    // console.log(req.url);
     // res.end ("<h1> your requested has been accpeted</h1>")
  if (req.url === '/ikramjaved'){
     res.end ("welcome to ikramjaved server")
