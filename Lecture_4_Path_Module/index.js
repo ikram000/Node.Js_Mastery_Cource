@@ -12,7 +12,7 @@ const absolutepath =path.resolve();
 
 // console.log("we are working currently path =",absolutepath)
 
-// extention
+// extention;
 const extname =path.extname ("resume.pdf")
 
 console.log ("extname =", extname);
