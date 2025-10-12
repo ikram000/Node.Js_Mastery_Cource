@@ -8,4 +8,4 @@ app.get('/', (req,res)=>{
     res.send("welcome ikram server")
  })
 const port = 2000;
-app.listen(port, ()=> console.log(`welcome to express server ${port}`))
+app.listen(port, ()=> console.log(`welcome to express server ${port}`));
